@@ -12,7 +12,7 @@
   "main": "./lib/Yaml.js",
   "dependencies": {
     "argparse": "^0.1.15",
-    "glob": "^4.0.0"
+    "glob": "^5.0.15"
   },
   "devDependencies": {
     "coffeeify": "^0.7.0",
